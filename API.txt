@@ -1,0 +1,3 @@
+http://<your_pi_ip_address>:5000/api/status
+http://<your_pi_ip_address>:5000/api/sector-performance
+http://<your_pi_ip_address>:5000/api/top-stocks

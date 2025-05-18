@@ -1,0 +1,14 @@
+Flask>=2.0
+Flask-Cors>=3.0
+yfinance>=0.2.30 # Use a recent version
+pandas>=1.5
+pandas-ta>=0.3.14b0 # Use a recent version
+schedule>=1.1
+pytz
+numpy>=1.21
+requests
+scipy
+feedparser>=6.0 # Add feedparser
+Flask-SocketIO>=5.0 # Add Flask-SocketIO
+python-socketio>=5.0 # Add python-socketio
+gevent-websocket>=0.10 # Add async library
